@@ -9,4 +9,4 @@ The project also aims at building a model of housing prices in California using 
 Districts or block groups are the smallest geographical units for which the US Census Bureau publishes sample data (a block group typically has a population of 600 to 3,000 people). There are 20,640 districts in the project dataset.
 
 ##link
- https://jayaraghavendra.github.io/California-Housing-Price-Prediction/
+https://jayaraghavendra.github.io/California-Housing-Price-Prediction/
